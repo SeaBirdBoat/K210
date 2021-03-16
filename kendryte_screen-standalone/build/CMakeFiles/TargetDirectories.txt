@@ -1,0 +1,9 @@
+D:/kproject/yabo/kendryte_screen-standalone/build/CMakeFiles/kendryte_screen-standalone.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/CMakeFiles/edit_cache.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/CMakeFiles/rebuild_cache.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/kendryte_standalone-sdk/CMakeFiles/kendryte_standalone-sdk.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/kendryte_standalone-sdk/CMakeFiles/edit_cache.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/kendryte_standalone-sdk/CMakeFiles/rebuild_cache.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/kendryte_lcd-nt35310-standalone-driver/CMakeFiles/kendryte_lcd-nt35310-standalone-driver.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/kendryte_lcd-nt35310-standalone-driver/CMakeFiles/edit_cache.dir
+D:/kproject/yabo/kendryte_screen-standalone/build/kendryte_lcd-nt35310-standalone-driver/CMakeFiles/rebuild_cache.dir

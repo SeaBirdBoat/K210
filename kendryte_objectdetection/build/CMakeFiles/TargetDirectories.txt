@@ -1,0 +1,6 @@
+D:/kproject/yabo/kendryte_gpio-number-standalone/build/CMakeFiles/kendryte_gpio-number-standalone.dir
+D:/kproject/yabo/kendryte_gpio-number-standalone/build/CMakeFiles/edit_cache.dir
+D:/kproject/yabo/kendryte_gpio-number-standalone/build/CMakeFiles/rebuild_cache.dir
+D:/kproject/yabo/kendryte_gpio-number-standalone/build/kendryte_standalone-sdk/CMakeFiles/kendryte_standalone-sdk.dir
+D:/kproject/yabo/kendryte_gpio-number-standalone/build/kendryte_standalone-sdk/CMakeFiles/edit_cache.dir
+D:/kproject/yabo/kendryte_gpio-number-standalone/build/kendryte_standalone-sdk/CMakeFiles/rebuild_cache.dir

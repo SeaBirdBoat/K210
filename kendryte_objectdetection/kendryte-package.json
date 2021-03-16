@@ -1,0 +1,25 @@
+{
+    "name": "kendryte/gpio-number-standalone",
+    "version": "develop",
+    "type": "executable",
+    "dependency": {},
+    "source": [
+        "src/object_detection/main.c",
+        "src/object_detection/region_layer.c",
+        "src/object_detection/flash/w25qxx.c",
+        "src/object_detection/lcd/lcd.c",
+        "src/object_detection/lcd/st7789.c",
+        "src/object_detection/ov2640/dvp_cam.c",
+        "src/object_detection/ov2640/ov2640.c"
+    ],
+    "header": [
+        "src/object_detection",
+        "src/object_detection/flash",
+        "src/object_detection/lcd",
+        "src/object_detection/ov2640"
+    ],
+    "homepage": "https://github.com/GongT/monorepo-kendryte-driver-collection",
+    "localDependency": [
+        "D:\\kproject\\yabo\\kendryte_gpio-number-standalone\\kendryte_libraries\\kendryte-standalone-sdk"
+    ]
+}

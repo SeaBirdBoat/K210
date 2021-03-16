@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../kendryte_libraries/kendryte_standalone-sdk/lib/bsp/include/encoding.h
+
+../kendryte_libraries/kendryte_standalone-sdk/lib/bsp/include/platform.h
+
+../kendryte_libraries/kendryte_standalone-sdk/lib/drivers/include/dvp.h
+stdint.h
+-
+
+../kendryte_libraries/kendryte_standalone-sdk/lib/drivers/include/plic.h
+stdint.h
+-
+encoding.h
+../kendryte_libraries/kendryte_standalone-sdk/lib/drivers/include/encoding.h
+platform.h
+../kendryte_libraries/kendryte_standalone-sdk/lib/drivers/include/platform.h
+
+../kendryte_libraries/kendryte_standalone-sdk/lib/drivers/include/sysctl.h
+stdint.h
+-
+platform.h
+../kendryte_libraries/kendryte_standalone-sdk/lib/drivers/include/platform.h
+
+D:/kproject/yabo/kendryte_screen-standalone/src/dvp_cam.c
+dvp_cam.h
+D:/kproject/yabo/kendryte_screen-standalone/src/dvp_cam.h
+stdio.h
+-
+dvp.h
+D:/kproject/yabo/kendryte_screen-standalone/src/dvp.h
+plic.h
+D:/kproject/yabo/kendryte_screen-standalone/src/plic.h
+sysctl.h
+D:/kproject/yabo/kendryte_screen-standalone/src/sysctl.h
+
+D:/kproject/yabo/kendryte_screen-standalone/src/dvp_cam.h
+stdint.h
+-
+

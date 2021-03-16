@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/lcd/lcd.h
+stdint.h
+-
+
+D:/kproject/yabo/kendryte_screen-standalone/kendryte_libraries/kendryte_lcd-nt35310-standalone-driver/src/font.h
+stdint.h
+-
+
+D:/kproject/yabo/kendryte_screen-standalone/kendryte_libraries/kendryte_lcd-nt35310-standalone-driver/src/lcd.c
+string.h
+-
+unistd.h
+-
+font.h
+D:/kproject/yabo/kendryte_screen-standalone/kendryte_libraries/kendryte_lcd-nt35310-standalone-driver/src/font.h
+lcd.h
+D:/kproject/yabo/kendryte_screen-standalone/kendryte_libraries/kendryte_lcd-nt35310-standalone-driver/src/lcd.h
+nt35310.h
+D:/kproject/yabo/kendryte_screen-standalone/kendryte_libraries/kendryte_lcd-nt35310-standalone-driver/src/nt35310.h
+
+D:/kproject/yabo/kendryte_screen-standalone/kendryte_libraries/kendryte_lcd-nt35310-standalone-driver/src/nt35310.h
+stdint.h
+-
+
